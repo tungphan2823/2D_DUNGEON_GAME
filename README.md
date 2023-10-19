@@ -1,5 +1,4 @@
-# 2D_DUNGEON_GAME
-# 2D Java Game Project (OOP)
+# 2D_DUNGEON_GAME (OOP)
 
 🎮 Welcome to my basic 2D game project, powered by Java ! 🚀
 
